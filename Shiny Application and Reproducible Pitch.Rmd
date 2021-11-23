@@ -1,6 +1,6 @@
 ---
 title: "Shiny Application and Reproducible Pitch"
-author: "Nikita Agarwal"
+author: "Nikita Agarwal "
 date: "23 November 2022"
 output: ioslides_presentation
 runtime: shiny
